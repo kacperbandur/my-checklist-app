@@ -70,7 +70,8 @@ Aplikacja "Checklista" – zarządzanie zadaniami w React Native
 
 ## **Testy:**
 
-Testy Jednostkowe
+Testy Jednostkowe 
+Lokalizacja [Testy Jednostkowe](my-checklist-app/__tests__/Index.test.tsx)
 
 1. renders correctly  
    Cel: Sprawdzanie, czy aplikacja renderuje poprawnie główny nagłówek.  
@@ -104,6 +105,7 @@ Testy Jednostkowe
     Opis: Test wprowadza tekst "Tekst testu" do pola input i sprawdza, czy wartość w polu input została zaktualizowana.
 
 Testy Integracyjne
+Lokalizacja [Testy Integracyjne](my-checklist-app/__tests__/AppIntegration.test.tsx)
 
 1. renders the main header correctly  
    Cel: Sprawdzanie, czy nagłówek aplikacji "Moja Checklista" jest poprawnie renderowany.  
